@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(195, 241, 124);
+    border: 10px;
+}
+p{
+    color:brown;
+}
+h1{
+    color: blue;
+}
+h3{
+    color: darkgoldenrod;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
